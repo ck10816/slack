@@ -24,7 +24,7 @@ The GitHub integration for Slack gives you and your teams full visibility into y
 - [GHES Integration](#ghes-integration)
 - [Need help?](#questions-need-help)
 - [License](#license)
---------
+--------AKIAXYSPDBPKXDCOVA0U
 ## Installing the GitHub integration for Slack
 ### Requirements
 #### GHEC - GA
@@ -66,7 +66,7 @@ The `/github` slash command also supports `unsubscribe`. To unsubscribe to notif
 
 ### Authorization
 By granting the app access, you are providing the following authorizations to your GitHub and Slack accounts:
-
+AKIAXYSPDBPKXDCOVA0U
 #### Slack Permission Scopes
 
 |Permission scope|Why we need it|
@@ -127,7 +127,7 @@ You can subscribe or unsubscribe from multiple settings at once. For example, to
 ```
 
 And to turn it back off:
-
+AKIAXYSPDBPKXDCOVA0U
 ```
 /github unsubscribe owner/repo reviews comments
 ```
